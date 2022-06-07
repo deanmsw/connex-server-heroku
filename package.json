@@ -12,7 +12,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "cors": "^2.8.5",
     "express": "^4.18.1",
     "express-prometheus-middleware": "^1.2.0",
     "nodemon": "^2.0.16"
